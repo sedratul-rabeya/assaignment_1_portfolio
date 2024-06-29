@@ -1,0 +1,43 @@
+body{
+    background-color:rgba(135, 207, 235, 0.066);
+    font-family: 'Trirong', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    margin: 0;
+    
+}
+h1{
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+}
+.button{
+    text-decoration: none;
+    background-color: orange;
+    color:white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: large;
+    background-image: linear-gradient(orange,yellow);
+}
+.section_one{
+    display: flex;
+    padding-left:10%px ;
+    margin-bottom: 200px;
+    
+}
+.explore{
+    width: 50%;
+    padding-left: 200px;
+   
+}
+.orang{
+color: orange;
+
+}
+img{
+    width: 80%;
+    size: 30px 30px;
+}
+
+.section_one{
+
+}
